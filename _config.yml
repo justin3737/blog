@@ -70,4 +70,4 @@ theme: tranquilpeak
 deploy:
   type: git
   repository: https://github.com/justin3737/blog.git
-  branch: master
+  branch: my_blog
